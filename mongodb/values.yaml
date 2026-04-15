@@ -1,0 +1,4 @@
+deployment:
+  replicas: "1"
+  imageName: "manikanta1808/mongodb"
+  imageVersion: "1.0.0"
